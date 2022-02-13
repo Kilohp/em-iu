@@ -1,8 +1,8 @@
 const CONFIG = {
     introTitle: 'Mr Bean à!',
-    introDesc: `Dans le royaume de mon coeur, c'est toi la princesse`,
+    introDesc: `Dans le royaume de mon coeur, cest toi la princesse`,
     btnIntro: 'hihi',
-    title: 'On s'est déjà vu quelque part, non?',
+    title: 'On sest déjà vu quelque part, non?',
     desc: 'Tu ressembles énormément à ma prochaine petite copine ',
     btnYes: 'Em cũng rất thích anh <33',
     btnNo: 'Không, Anh trai à :3',
