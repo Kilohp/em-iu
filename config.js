@@ -4,7 +4,7 @@ const CONFIG = {
     Cest toi la princesse`,
     btnIntro: 'hihi',
     title: 'On sest déjà vu quelque part, non?',
-    desc: 'Tu ressembles énormément à ma prochaine petite copine ',
+    desc: 'Tu ressembles énormément à ma prochaine petite ami ',
     btnYes: 'Em cũng rất thích anh <33',
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 8 tỉ người mà sao em lại yêu anh <3',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.instagram.com/direct/inbox/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
